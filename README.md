@@ -66,10 +66,14 @@ Contém o arquivo Main.java, responsável pelo menu e interação com o usuário
 ## Clonar o repositório
 
 git clone https://github.com/Guilherme-Davi/CRUD_console
+
 cd CRUD_console
 
 ## Executar o Projeto
 Abra o projeto em uma IDE como IntelliJ.
+
 Navegue até app/Main.java.
+
 Clique em Run para executar o programa.
+
 O menu CRUD aparecerá no console da sua IDE.
