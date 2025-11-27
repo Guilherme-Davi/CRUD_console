@@ -14,7 +14,7 @@ Cada filme possui:
 - id — inteiro, autoincrementado  
 - título — nome do filme  
 - descrição — sinopse, gênero, comentários  
-- data de conclusão — data planejada para assistir (LocalDate)
+- data de conclusão — data planejada para assistir(ou quando assistiu) (LocalDate)
 
 Menu principal:
 
